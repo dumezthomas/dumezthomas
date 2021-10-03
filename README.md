@@ -1,6 +1,6 @@
 # Hi, I'm Thomas :wave:
 
-**I am a Software Developper (C/C++ and Java)**
+**I am a Software Developer (C/C++ and Java)**
 
 ## Highlights
 -	3 years’ experience as a Software Developer
