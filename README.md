@@ -16,4 +16,3 @@
 ## Contact
 - :envelope: [dumezthomas@gmail.com](mailto:dumezthomas@gmail.com)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/dumezthomas/)
-- :earth_americas: [Whistler, BC, Canada](https://goo.gl/maps/3uv9K9qBeLVkJRW3A)
