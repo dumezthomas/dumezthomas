@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @dumezthomas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Thomas :wave:
+
+**I am a Software Developper (C/C++ and Java)**
+
+## Highlights
+-	3 years’ experience as a Software Developer
+-	B.Sc. in Information Systems
+-	Part of the “FULLCTRL” research project in partnership with Wallonia
+-	Implemented a Work Stealing Scheduler in a Real-Time Operating System
+-	Strong skills in C language and OPP languages (C++, Java)
+-	Extensive experience in multithreading and parallel programming
+-	Bilingual English/French
+-	Quick learner, dependable and a team player
+-	Problem solver
+
+## Contact
+- :envelope: [dumezthomas@gmail.com](mailto:dumezthomas@gmail.com)
+- :necktie: [LinkedIn](https://www.linkedin.com/in/dumezthomas/)
+- :earth_americas: [Whistler, BC, Canada](https://goo.gl/maps/3uv9K9qBeLVkJRW3A)
