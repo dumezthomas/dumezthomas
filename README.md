@@ -1,22 +1,26 @@
 # Hi, I'm Thomas :wave:
 
-**I am a Software Developer with a Bachelor of Science Degree in Information Systems, and I have over three years of experience in multithreading and parallel programming. I am skilled at researching, reviewing, and using data and technical information to design, develop, modify, and test software code and systems. I am proficient in C language and OPP languages (C++, Java).**
+**I am a Software Developer with a Bachelor of Science Degree in Information Systems, and I have over 3 years of experience using-enterprise class programming languages and tools and performing multi-tier architecture. I am skilled at researching, reviewing, and using data and technical information to design, develop, modify, and test software code and
+systems. I am proficient in a variety of programming languages including C, C++, and Java. I am also currently in a web development boot camp learning Javascript, React, MongoDB, and Node.js.**
 
 ## Highlights
 -	Over 3 years of experience working as a Software Developer on complex projects and systems
--	Skilled at researching, reviewing, and using data and technical information to design, develop, modify, and test software code and systems
--	Proficient at collecting and documenting user requirements, and testing software designs to ensure functionality and good user experience
--	Experienced at developing, managing, and using various databases
+-	Skilled at researching, reviewing, and using data and technical information to design, build, test, and deploy software code and systems
+-	Proficient at collecting and documenting user requirements, and testing software designs to ensure functionalityand good user experience
+-	Experienced at developing, managing, and using relational databases like SQL or MySQL
 -	Skilled at planning, designing, and coordinating software development, installation, integration, and operations of computer-based systems
 -	Experienced at formulating and executing improvements to various computer software applications
--	Part of the FULLCTRL research project in partnership with Wallonia which was aimed at developing a fully automatic and universal control unit for diverse and varied plastic or metal parts
--	Implemented a Work Stealing Scheduler in a real-time operating system
--	Skilled at using C language and OPP languages (C++ and Java)
--	Extensive experience in multithreading and parallel programming
--	Able to speak and write fluently in English and French
+-	Demonstrated experience solving difficult technical problems
+-	Implemented an OAuth 2.0 based authentication for REST API [(here)](https://github.com/dumezthomas/authentication-restapi)
+-	Strong code writing ability across several platforms and environments using C, C++, and Java
+-	Extensive experience in multithreading/parallel programming
 
-## Technical skills
-C, C++, Java, Jakarta EE, SQL, MySQL, HTML5, CSS3, Git, GitHub, MS Office
+## Technical knowledge and skills
+- Programming languages: C, C++, and Java
+- Databases: SQL and MySQL
+- Operating systems: Windows, macOS, and Linux
+- Applications: MS Visual Studio, MS Visual Studio Code, Eclipse, NetBeans, Postman, and MS Office
+- Other: HTML5, CSS3, Jakarta EE, JUnit 5, REST API, Git, and GitHub
 
 ## Contact
 - :envelope: [dumezthomas@gmail.com](mailto:dumezthomas@gmail.com)
