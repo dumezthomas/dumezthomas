@@ -1,6 +1,6 @@
 # Hi, I'm Thomas :wave:
 
-**I am a Software Developer with a Bachelor of Science Degree in Information Systems, and I have over 3 years of experience using enterprise-class programming languages and tools and performing multi-tier architecture. I am skilled at researching, reviewing, and using data and technical information to design, develop, modify, and test software code and systems. I am proficient in a variety of programming languages including C, C++, Java, and JavaScript. I have recently completed an online Web Development Bootcamp learning more about React, Node.js, Express.js, and MongoDB.**
+**I am a _Software Developer_ with a Bachelor of Science Degree in Information Systems, and I have over 3 years of experience using programming languages including C, Java, and JavaScript. I have recently completed two courses about Amazon Web Services (AWS) and back-end technologies like Node.js, Express.js, and MongoDB.**
 
 ## Highlights
 -	Over 3 years of experience working as a Software Developer on complex projects and systems
