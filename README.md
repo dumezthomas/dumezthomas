@@ -23,5 +23,5 @@ I am a **Software Developer** with a Bachelor of Science Degree in Information S
 - *Operating systems:* Windows and Linux
 
 ## Contact
-- :envelope: [dumezthomas@gmail.com](mailto:dumezthomas@gmail.com)
+- :envelope: [contact@dumezthomas.dev](mailto:contact@dumezthomas.dev?subject=Information)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/dumezthomas/)
