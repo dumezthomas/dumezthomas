@@ -34,3 +34,4 @@ I am a **Full Stack Web Developer** with a Bachelor of Science degree in Informa
 ![Windows](https://img.shields.io/badge/-Windows-DDDDDD?style=flat&logo=windows11&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/-Linux-DDDDDD?style=flat&logo=linux&logoColor=FCC624)
 ![Virtual Box](https://img.shields.io/badge/-Virtual%20Box-DDDDDD?style=flat&logo=virtualbox&logoColor=183A61)
+![AWS](https://img.shields.io/badge/-AWS-DDDDDD?style=flat&logo=amazonaws&logoColor=232F3E)
