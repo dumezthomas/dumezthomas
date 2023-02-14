@@ -1,27 +1,36 @@
 # Hi, I'm Thomas :wave:
 
-I am a **Software Developer** with a Bachelor of Science Degree in Information Systems, and I have over 3 years of experience using programming languages including *C*, *Java*, and *JavaScript*. I have recently completed two courses about *Amazon Web Services (AWS)* and back-end technologies like *Node.js*, *Express.js*, and *MongoDB*.
+I am a **Full Stack Web Developer** with a Bachelor of Science degree in Information Systems. I have recently completed various courses about *Amazon Web Services (AWS)*, *Agile Project Management*, and front-end and back-end modern technologies, such as *React.js*, *Next.js*, *Node.js*, *Express.js*, and *MongoDB*. Additionally, I have over three years of experience working as a software developer on complex projects and systems.
 
-## Highlights
--	Over 3 years of experience working as a Software Developer on complex projects and systems
--	Skilled at researching, reviewing, and using data and technical information to design, build, test, and deploy software code and systems
--	Proficient at collecting and documenting user requirements, and testing software designs to ensure functionalityand good user experience
--	Experienced at developing, managing, and using relational or non-relational databases like *MySQL* or *MongoDB*
--	Skilled at planning, designing, and coordinating software development, installation, integration, and operations of computer-based systems
--	Experienced at formulating and executing improvements to various computer software applications
--	Demonstrated experience solving difficult technical problems
--	Strong code writing ability across several platforms and environments
--	Extensive experience in multithreading/parallel programming
+## Technical skills
 
-## Technical knowledge and skills
-- *Programming languages:* C, Java, and JavaScript
-- *Frameworks:* Express.js in Node.js
-- *Databases:* SQL (MySQL) and NoSQL (MongoDB, DynamoDB)
-- *User Authentication:* Basic Authentication, JWT Based Authentication, and OAuth
-- *Other:* HTML5, CSS3, Jakarta EE, REST API, JSON, Git, and GitHub
-- *Applications:* MS Visual Studio Code, Eclipse, NetBeans, Postman, and MS Office
-- *Operating systems:* Windows and Linux
+![C](https://img.shields.io/badge/-C-DDDDDD?style=flat&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/-Java-DDDDDD?style=flat)
 
-## Contact
-- :envelope: [contact@dumezthomas.dev](mailto:contact@dumezthomas.dev?subject=Information)
-- :necktie: [LinkedIn](https://www.linkedin.com/in/dumezthomas/)
+![HTML5](https://img.shields.io/badge/-HTML5-DDDDDD?style=flat&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-DDDDDD?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-DDDDDD?style=flat&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DDDDDD?style=flat&logo=bootstrap&logoColor=7952B3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-DDDDDD?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-DDDDDD?style=flat&logo=typescript&logoColor=3178C6)
+
+![React](https://img.shields.io/badge/-React-DDDDDD?style=flat&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/-Next.js-DDDDDD?style=flat&logo=nextdotjs&logoColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-DDDDDD?style=flat&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-DDDDDD?style=flat&logo=express&logoColor=000000)
+
+![MySQL](https://img.shields.io/badge/-MySQL-DDDDDD?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-DDDDDD?style=flat&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/-Firebase-DDDDDD?style=flat&logo=firebase&logoColor=FFCA28)
+
+![Git](https://img.shields.io/badge/-Git-DDDDDD?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-DDDDDD?style=flat&logo=github&logoColor=181717)
+
+![Postman](https://img.shields.io/badge/-Postman-DDDDDD?style=flat&logo=postman&logoColor=FF6C37)
+![Eclipse](https://img.shields.io/badge/-Eclipse-DDDDDD?style=flat&logo=eclipse&logoColor=2C2255)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-DDDDDD?style=flat&logo=visualstudio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-DDDDDD?style=flat&logo=visualstudiocode&logoColor=007ACC)
+
+![Windows](https://img.shields.io/badge/-Windows-DDDDDD?style=flat&logo=windows11&logoColor=0078D4)
+![Linux](https://img.shields.io/badge/-Linux-DDDDDD?style=flat&logo=linux&logoColor=FCC624)
+![Virtual Box](https://img.shields.io/badge/-Virtual%20Box-DDDDDD?style=flat&logo=virtualbox&logoColor=183A61)
