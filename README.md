@@ -15,6 +15,7 @@ I am a **Full Stack Web Developer** with a Bachelor of Science degree in Informa
 ![TypeScript](https://img.shields.io/badge/-TypeScript-DDDDDD?style=flat&logo=typescript&logoColor=3178C6)
 
 ![React](https://img.shields.io/badge/-React-DDDDDD?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-DDDDDD?style=flat&logo=redux&logoColor=764ABC)
 ![Next](https://img.shields.io/badge/-Next.js-DDDDDD?style=flat&logo=nextdotjs&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-DDDDDD?style=flat&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-DDDDDD?style=flat&logo=express&logoColor=000000)
