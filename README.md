@@ -7,7 +7,7 @@ I am a **Full Stack Web Developer** with a Bachelor of Science degree in Informa
 ![C](https://img.shields.io/badge/-C-DDDDDD?style=flat&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-DDDDDD?style=flat)
 
-![HTML5](https://img.shields.io/badge/-HTML5-DDDDDD?style=flat&logo=HTML5&logoColor=E34F26)
+![HTML](https://img.shields.io/badge/-HTML-DDDDDD?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-DDDDDD?style=flat&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-DDDDDD?style=flat&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-DDDDDD?style=flat&logo=bootstrap&logoColor=7952B3)
