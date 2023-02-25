@@ -7,8 +7,8 @@ I am a **Full Stack Web Developer** with a Bachelor of Science degree in Informa
 ![C](https://img.shields.io/badge/-C-DDDDDD?style=flat&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-DDDDDD?style=flat)
 
-![HTML](https://img.shields.io/badge/-HTML-DDDDDD?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-DDDDDD?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-DDDDDD?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-DDDDDD?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-DDDDDD?style=flat&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-DDDDDD?style=flat&logo=bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-DDDDDD?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -16,7 +16,7 @@ I am a **Full Stack Web Developer** with a Bachelor of Science degree in Informa
 
 ![React](https://img.shields.io/badge/-React-DDDDDD?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-DDDDDD?style=flat&logo=redux&logoColor=764ABC)
-![Next](https://img.shields.io/badge/-Next.js-DDDDDD?style=flat&logo=nextdotjs&logoColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-DDDDDD?style=flat&logo=nextdotjs&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-DDDDDD?style=flat&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-DDDDDD?style=flat&logo=express&logoColor=000000)
 
